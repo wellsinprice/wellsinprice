@@ -8,7 +8,7 @@ Welcome to my GitHub! :octocat:
 
 *interests:* 
 
-Philosophy :books:  Neuroscience :brain:  Genomics :dna:  Computation 🖥️  Mathematics 🧮
+Philosophy :books:  Neuroscience :brain:  Genomics :dna:  Computation 🖥️  Mathematics 🧮 Cats 🐈‍⬛
 
 *hobbies:*
 

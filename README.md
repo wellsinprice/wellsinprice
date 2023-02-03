@@ -1,10 +1,10 @@
 # Hi, I'm Wellsin 
-Welcome to my GitHub! :octocat: 
+Welcome to my GitHub! :octocat:    
 
 ## About Me:
-
-- Currently learning R, linux, bash, scripting with applications to genomics
-- Planning on learning python and rust for artificial intelligence and robotics
+Programs in R, python, and shell scripts using Arch Linux and open-source tools.
+- Currently learning python and snakemake. 🐍
+- Planning on learning rust for robotics. 🤖
 
 *interests:* 
 

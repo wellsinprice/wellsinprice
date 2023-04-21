@@ -4,7 +4,6 @@ Welcome to my GitHub! :octocat:
 ## About Me:
 Programs in R, python, and shell scripts using Arch Linux and open-source tools.
 - Currently learning python and snakemake. 🐍
-- Planning on learning rust for robotics. 🤖
 
 *interests:* 
 

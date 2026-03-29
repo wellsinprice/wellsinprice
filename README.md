@@ -24,7 +24,7 @@ BS Neuroscience · Computational Life Sciences · Arizona State University
 ### What I'm Working On
 
 - Cleaning up bioinformatics pipelines from RNA-seq research (differential expression, QC, visualization)
-- Building analytics tools in Python/pandas for operational and sales data
+- Building analytics tools in R and tidyverse for operational and sales data
 - Exploring reproducible research workflows with Snakemake and containerization
 
 ---

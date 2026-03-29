@@ -1,16 +1,44 @@
-<img src="https://private-user-images.githubusercontent.com/76492410/297227514-59a3be70-8d75-4394-acdf-c9bd7e03cbab.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MDU0NTMwODUsIm5iZiI6MTcwNTQ1Mjc4NSwicGF0aCI6Ii83NjQ5MjQxMC8yOTcyMjc1MTQtNTlhM2JlNzAtOGQ3NS00Mzk0LWFjZGYtYzliZDdlMDNjYmFiLnBuZz9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNDAxMTclMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjQwMTE3VDAwNTMwNVomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTlkMGMxNTU3YjNlZWZjZmRhNmM3MTIyOTdmYWQ5MDVkMDNmODhmNzQxOWY3YzYxOGQyYzExOTU3MmEzNWM0YmEmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0JmFjdG9yX2lkPTAma2V5X2lkPTAmcmVwb19pZD0wIn0.jvQQfqEscPy1gPNpnppYzoo6kaZByRW1Ggggj6gNsgg">
+# Wellsin Price
 
-## About Me:
-I'm a neuroscientist and computational biologist with research experience in genomics. I program in R, python, shell, and SQL utilizing both Arch Linux and MacOS systems.
+**Regulatory & computational genomics** · Biosafety · Bioinformatics · Data Analytics
 
-*interests:* 
+I work at the intersection of federal biosafety oversight and computational biology. As a community representative on an Advarra central Institutional Biosafety Committee, I review gene therapy and recombinant DNA protocols across AAV, lentiviral, retroviral, and adenoviral vector platforms. My research background is in RNA-seq differential expression analysis, and I build data tools to surface patterns in messy operational datasets.
 
-Philosophy :books:  Neuroscience :brain:  Genomics :dna:  Computation 🖥️  Mathematics 🧮 Cats 🐈‍⬛
+BS Neuroscience · Computational Life Sciences · Arizona State University
 
-*hobbies:*
+---
 
-video games 🎮  biohacking & longevity 💊  podcasts 🗣️  music 🎼 exercise 🦾
-<!---
-wellsinprice/wellsinprice is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+### Tech Stack
+
+![R](https://img.shields.io/badge/-R-276DC3?style=flat-square&logo=r&logoColor=white)
+![Bioconductor](https://img.shields.io/badge/-Bioconductor-87B13F?style=flat-square&logo=r&logoColor=white)
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![pandas](https://img.shields.io/badge/-pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+![Bash](https://img.shields.io/badge/-Bash-4EAA25?style=flat-square&logo=gnubash&logoColor=white)
+![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
+![DESeq2](https://img.shields.io/badge/-DESeq2-276DC3?style=flat-square)
+![HPC/Slurm](https://img.shields.io/badge/-HPC%2FSlurm-333333?style=flat-square)
+
+---
+
+### What I'm Working On
+
+- Cleaning up bioinformatics pipelines from RNA-seq research (differential expression, QC, visualization)
+- Building analytics tools in Python/pandas for operational and sales data
+- Exploring reproducible research workflows with Snakemake and containerization
+
+---
+
+### GitHub Stats
+
+<p>
+  <img src="https://github-readme-stats.vercel.app/api?username=wellsinprice&show_icons=true&theme=default&hide_border=true&count_private=true" alt="GitHub Stats" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=wellsinprice&layout=compact&hide_border=true" alt="Top Languages" height="165" />
+</p>
+
+---
+
+### Connect
+
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/wellsin-price)
+[![Email](https://img.shields.io/badge/-Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:wellsinprice@gmail.com)
